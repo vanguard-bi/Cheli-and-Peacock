@@ -13,11 +13,10 @@
                   <tbody>
                     <tr>
                       <td valign="middle" align="left" width="18" style="line-height:0px;">
-                        <a href="https://join.skype.com/invite/JgPD9qq9CqLl" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/skype.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a>
-                        <p style="padding: 0px; margin: 10px 0px 0px 0px; line-height: 0px;"><a href="https://www.instagram.com/chelipeacocksafaris/" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/instagram.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
-                        <p style="padding: 0px; margin: 10px 0px 0px 0px; line-height: 0px;"><a href="https://web.facebook.com/cheliandpeacocksafaris" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/facebook.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
-                        <p style="padding: 0px; margin: 10px 0px 0px 0px; line-height: 0px;"><a href="https://chelipeacock.com/" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/web.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
-                        <p style="padding: 0px; margin: 10px 0px 0px 0px; line-height: 0px;"><a href="https://zone-in.chelipeacock.com/index.php" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/agentzone.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
+                        <a href="https://www.instagram.com/chelipeacocksafaris/" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/instagram.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a>
+                        <p style="padding: 0px; margin: 20px 0px 0px 0px; line-height: 0px;"><a href="https://web.facebook.com/cheliandpeacocksafaris" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/facebook.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
+                        <p style="padding: 0px; margin: 20px 0px 0px 0px; line-height: 0px;"><a href="https://chelipeacock.com/" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/web.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
+                        <p style="padding: 0px; margin: 20px 0px 0px 0px; line-height: 0px;"><a href="https://zone-in.chelipeacock.com/index.php" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/agentzone.png" width="18" height="18" border="0" style="width: 18px; height: 18px; max-width:18px; border: none; display: inline-block;"></a></p>
                       </td>
                       <td width="10" style="font-size:0px; line-height:0px; border: none;"></td>
                       <td width="231" style="padding-left: 20px; border-left: 2px solid #dbb581; vertical-align: top;">
@@ -72,7 +71,7 @@
             </tr>
             <tr>
               <td style="line-height: 0px;">
-                <a href="https://chelipeacock.com/safari-concierge" target="_blank">
+                <a href="mailto:rahab.nganga@chelipeacock.com">
                   <img src="https://vanguard-bi.github.io/Cheli-and-Peacock/banner/image.png" width="520" height="155" border="0" style="width: 520px; height: 155px; max-width:520px; border: none; display: inline-block;">
                 </a>
               </td>
