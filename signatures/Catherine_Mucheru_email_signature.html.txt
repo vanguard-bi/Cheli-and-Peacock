@@ -26,7 +26,7 @@
                             <tr>
                               <td width="231" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 16pt; line-height:110%; color: #59221e; text-align:left;text-transform:uppercase;">
                                 <div nowrap="" style="white-space:nowrap"><strong>C<span style="font-size: 12pt; color: #59221e;">atherine</span> M<span style="font-size: 12pt; color: #59221e;">ucheru</span></strong><br>
-                                  <span style="font-size: 9pt; color: #434343;">Sales Support</span>
+                                  <span style="font-size: 9pt; color: #434343;">Operations Coordinator</span>
                                 </div>
                               </td>
                             </tr>
