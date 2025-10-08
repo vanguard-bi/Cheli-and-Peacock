@@ -19,48 +19,26 @@
                         <p style="padding: 0px; margin: 20px 0px 0px 0px; line-height: 0px;"><a href="https://zone-in.chelipeacock.com/index.php" target="_blank"><img src="https://vanguard-bi.github.io/Cheli-and-Peacock/icons/agentzone.png" width="22" height="22" alt="logo" border="0" style="width: 22px; height: 22px; max-width:22px; border: none; display: inline-block;"></a></p>
                       </td>
                       <td width="10" style="font-size:0px; line-height:0px; border: none;"></td>
-                      <td width="231" style="padding-left: 20px; border-left: 2px solid #dbb581;">
+                      <td width="231" style="padding-left: 20px; border-left: 2px solid #dbb581; vertical-align: top;">
                         <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
                           <tbody>
                             <tr>
                               <td width="231" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 16pt; line-height:110%; color: #59221e; text-align:left;text-transform:uppercase;">
-                                <div nowrap="" style="white-space:nowrap"><strong>F<span style="font-size: 12pt; color: #59221e;">aith</span> N<span style="font-size: 12pt; color: #59221e;">zilani</span></strong><br>
-                                  <span style="font-size: 9pt; color: #434343;">CRM Administrator</span>
+                                <div nowrap="" style="white-space:nowrap"><strong>P<span style="font-size: 12pt; color: #59221e;">eter</span> K<span style="font-size: 12pt; color: #59221e;">aburu</span></strong><br>
+                                  <span style="font-size: 9pt; color: #434343;">Operations Coordinator</span>
                                 </div>
                               </td>
                             </tr>
                             <tr>
-                              <td width="231" style="padding-top: 20px;">
+                              <td width="231" style="padding-top: 50px;">
                                 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
                                   <tbody>
-                                    <tr>
-                                      <td width="40" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 9pt; line-height:120%; color: #666666; text-align:left;">
-                                        <div nowrap="" style="white-space:nowrap">D.L</div>
-                                      </td>
-                                      <td width="191" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 9pt; line-height:120%; color: #666666; text-align:left;">
-                                        <div nowrap="" style="white-space:nowrap"><a href="tel:+254730721329" style="color:#666666; text-decoration:none !important; text-decoration-color: #FFFFFF;">+254 730 721 329</a></div>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td colspan="2" height="8" style="font-size:0px; line-height:0px; border: none;"></td>
-                                    </tr>
                                     <tr>
                                       <td width="40" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 9pt; line-height:120%; color: #666666; text-align:left;">
                                         <div nowrap="" style="white-space:nowrap">O.L</div>
                                       </td>
                                       <td width="191" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 9pt; line-height:120%; color: #666666; text-align:left;">
                                         <div nowrap="" style="white-space:nowrap"><a href="tel:+254730721000" style="color:#666666; text-decoration:none !important; text-decoration-color: #FFFFFF;">+254 730 721 000</a></div>
-                                      </td>
-                                    </tr>
-                                    <tr>
-                                      <td colspan="2" height="8" style="font-size:0px; line-height:0px; border: none;"></td>
-                                    </tr>
-                                    <tr>
-                                      <td width="40" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 9pt; line-height:120%; color: #666666; text-align:left;">
-                                        <div nowrap="" style="white-space:nowrap"></div>
-                                      </td>
-                                      <td width="191" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 9pt; line-height:120%; color: #666666; text-align:left;">
-                                        <div nowrap="" style="white-space:nowrap"></div>
                                       </td>
                                     </tr>
                                   </tbody>
