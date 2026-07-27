@@ -26,13 +26,12 @@
                             <tr>
                               <td width="231" style="font-family: 'Noto Serif Georgian', Times New Roman, Cambria, serif; font-size: 16pt; line-height:110%; color: #59221e; text-align:left;text-transform:uppercase;">
                                 <div nowrap="" style="white-space:nowrap"><strong>P<span style="font-size: 12pt; color: #59221e;">eris</span> N<span style="font-size: 12pt; color: #59221e;">yaga</span></strong><br>
-                                  <span style="font-size: 9pt; color: #434343;">Guest Relations - Airport</span><br>
-                                  <span style="font-size: 9pt; color: #434343;">Representative (Kenya)</span>
+                                  <span style="font-size: 9pt; color: #434343;">Guest Relations - Airport Representative</span>
                                 </div>
                               </td>
                             </tr>
                             <tr>
-                              <td width="231" style="padding-top: 10px;">
+                              <td width="231" style="padding-top: 35px;">
                                 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
                                   <tbody>
                                     <tr>
